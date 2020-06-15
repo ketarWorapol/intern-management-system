@@ -4,7 +4,8 @@ import { LoginComponent } from './components/login/login.component';
 
 const RouterLists: Routes = [
     { path: '', redirectTo: AppURL.Login,pathMatch:'full' },
-    { path: AppURL.Login, component: LoginComponent }
+    { path: AppURL.Login, component: LoginComponent },
+    { path: '*', redirectTo: AppURL.Login },
 ];
 
 export const AppRouting = RouterModule.forRoot(RouterLists);

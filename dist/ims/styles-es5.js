@@ -65,7 +65,7 @@
 
   /***/
   function node_modulesAngularDevkitBuildAngularSrcAngularCliFilesPluginsRawCssLoaderJsNode_modulesPostcssLoaderSrcIndexJsSrcStylesCss(module, exports) {
-    module.exports = [[module.i, "@import url('https://fonts.googleapis.com/css?family=Kanit&display=swap');\n\nbody, mat-label,\n:not(i) {\n  font-family: 'Kanit', sans-serif !important;\n}\n\nbody{\n    margin:0px;\n    padding:0px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9zdHlsZXMuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLHlFQUF5RTs7QUFFekU7O0VBRUUsMkNBQTJDO0FBQzdDOztBQUVBO0lBQ0ksVUFBVTtJQUNWLFdBQVc7QUFDZiIsImZpbGUiOiJzcmMvc3R5bGVzLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIkBpbXBvcnQgdXJsKCdodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9S2FuaXQmZGlzcGxheT1zd2FwJyk7XG5cbmJvZHksIG1hdC1sYWJlbCxcbjpub3QoaSkge1xuICBmb250LWZhbWlseTogJ0thbml0Jywgc2Fucy1zZXJpZiAhaW1wb3J0YW50O1xufVxuXG5ib2R5e1xuICAgIG1hcmdpbjowcHg7XG4gICAgcGFkZGluZzowcHg7XG59Il19 */", '', '']];
+    module.exports = [[module.i, "@import url('https://fonts.googleapis.com/css?family=Kanit&display=swap');\r\n\r\nbody, mat-label,\r\n:not(i) {\r\n  font-family: 'Kanit', sans-serif !important;\r\n}\r\n\r\nbody{\r\n    margin:0px;\r\n    padding:0px;\r\n}\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9zdHlsZXMuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLHlFQUF5RTs7QUFFekU7O0VBRUUsMkNBQTJDO0FBQzdDOztBQUVBO0lBQ0ksVUFBVTtJQUNWLFdBQVc7QUFDZiIsImZpbGUiOiJzcmMvc3R5bGVzLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIkBpbXBvcnQgdXJsKCdodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9S2FuaXQmZGlzcGxheT1zd2FwJyk7XHJcblxyXG5ib2R5LCBtYXQtbGFiZWwsXHJcbjpub3QoaSkge1xyXG4gIGZvbnQtZmFtaWx5OiAnS2FuaXQnLCBzYW5zLXNlcmlmICFpbXBvcnRhbnQ7XHJcbn1cclxuXHJcbmJvZHl7XHJcbiAgICBtYXJnaW46MHB4O1xyXG4gICAgcGFkZGluZzowcHg7XHJcbn0iXX0= */", '', '']];
     /***/
   },
 
@@ -541,23 +541,23 @@
   /***/
   function _(module, exports, __webpack_require__) {
     __webpack_require__(
-    /*! D:\ketar\ims\src\styles.css */
+    /*! D:\ketar\intern-management-system\src\styles.css */
     "./src/styles.css");
 
     __webpack_require__(
-    /*! D:\ketar\ims\node_modules\primeflex\primeflex.css */
+    /*! D:\ketar\intern-management-system\node_modules\primeflex\primeflex.css */
     "./node_modules/primeflex/primeflex.css");
 
     __webpack_require__(
-    /*! D:\ketar\ims\node_modules\primeicons\primeicons.css */
+    /*! D:\ketar\intern-management-system\node_modules\primeicons\primeicons.css */
     "./node_modules/primeicons/primeicons.css");
 
     __webpack_require__(
-    /*! D:\ketar\ims\node_modules\primeng\resources\primeng.min.css */
+    /*! D:\ketar\intern-management-system\node_modules\primeng\resources\primeng.min.css */
     "./node_modules/primeng/resources/primeng.min.css");
 
     module.exports = __webpack_require__(
-    /*! D:\ketar\ims\node_modules\primeng\resources\themes\nova-light\theme.css */
+    /*! D:\ketar\intern-management-system\node_modules\primeng\resources\themes\nova-light\theme.css */
     "./node_modules/primeng/resources/themes/nova-light/theme.css");
     /***/
   }
