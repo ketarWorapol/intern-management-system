@@ -4,7 +4,7 @@ const app = express();
 app.use(express.static('./dist/IMS/'));
 
 app.get('/*', function(req, res){
-    res.sendFile('index.html', {root : 'dist/IMS/'});
+    res.sendFile('index.html', {root : 'dist/ims/'});
 })
 
 app.listen(process.env.PORT || 8080);
