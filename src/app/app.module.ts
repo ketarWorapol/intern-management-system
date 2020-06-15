@@ -7,6 +7,10 @@ import { LoginComponent } from './components/login/login.component';
 import { RegisterComponent } from './components/register/register.component';
 import { AppRouting } from './app.routing';
 
+import {CardModule} from 'primeng/card';
+import {ButtonModule} from 'primeng/button';
+
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -16,9 +20,11 @@ import { AppRouting } from './app.routing';
   imports: [
     AppRouting,
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    CardModule,
+    ButtonModule
   ],
-  providers: [],
+  providers: [], 
   bootstrap: [AppComponent]
 })
 export class AppModule { }
